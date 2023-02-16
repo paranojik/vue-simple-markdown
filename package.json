@@ -4,7 +4,6 @@
   "description": "A Simple and Highspeed Markdown Parser for Vue",
   "author": "Milan Bačkonja <milan.backonja@hotmail.com>",
   "main": "dist/vue-simple-markdown.common.js",
-  "module": "dist/vue-simple-markdown.esm.js",
   "browser": "dist/vue-simple-markdown.js",
   "unpkg": "dist/vue-simple-markdown.js",
   "style": "dist/vue-simple-markdown.css",
